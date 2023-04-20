@@ -14,7 +14,7 @@ summary: 瞭StorageGRID 解如何在BlueXP中管理功能不全的系統。
 
 
 [role="lead"]
-瞭解StorageGRID 如何在BlueXP（前身為Cloud Manager）中管理功能不全的系統。
+瞭StorageGRID 解如何在BlueXP中管理功能不全的系統。
 
 
 
