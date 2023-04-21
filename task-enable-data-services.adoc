@@ -28,6 +28,6 @@ https://docs.netapp.com/us-en/cloud-manager-backup-restore/task-backup-onprem-pr
 若要開始使用、請前往 BlueXP 畫布、將來源工作環境拖放到目標工作環境。可為來源或目標。StorageGRID
 
 +
-https://docs.netapp.com/us-en/cloud-manager-sync/index.html["深入瞭Cloud Sync 解功能"^]
+https://docs.netapp.com/us-en/cloud-manager-sync/index.html["深入瞭解 BlueXP 複製與同步"^]
 
 
