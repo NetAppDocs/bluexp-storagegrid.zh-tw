@@ -21,13 +21,13 @@ summary: 在StorageGRID 您發現BlueXP中的一套功能完善的系統之後�
 若要開始使用、請前往 BlueXP 畫布、然後在 StorageGRID 工作環境中拖放內部部署的 ONTAP 工作環境。
 
 +
-https://docs.netapp.com/us-en/cloud-manager-backup-restore/task-backup-onprem-private-cloud.html["深入瞭解如何將內部部署ONTAP 的各項資料備份StorageGRID 到支援中心"^]
+https://docs.netapp.com/us-en/bluexp-backup-recovery/task-backup-onprem-private-cloud.html["深入瞭解如何將內部部署ONTAP 的各項資料備份StorageGRID 到支援中心"^]
 
 * 使用 BlueXP 複製與同步、將資料同步至 StorageGRID 系統或從系統同步。
 +
 若要開始使用、請前往 BlueXP 畫布、將來源工作環境拖放到目標工作環境。可為來源或目標。StorageGRID
 
 +
-https://docs.netapp.com/us-en/cloud-manager-sync/index.html["深入瞭解 BlueXP 複製與同步"^]
+https://docs.netapp.com/us-en/bluexp-copy-sync/index.html["深入瞭解 BlueXP 複製與同步"^]
 
 
