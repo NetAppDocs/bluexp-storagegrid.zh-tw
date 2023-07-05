@@ -2,10 +2,10 @@
 layout: astra 
 sidebar: sidebar 
 permalink: index.html 
-lead: Discover your StorageGRID systems through BlueXP to get a complete view of data across your hybrid multicloud. 
-summary: 透過 BlueXP 探索您的 StorageGRID 系統、以完整檢視混合式多雲端的資料。 
+lead: Discover your StorageGRID systems from BlueXP to get a complete view of data across your hybrid multicloud. 
+summary: 從 BlueXP 探索您的 StorageGRID 系統、以完整檢視混合式多雲端的資料。 
 ---
-= 本文檔StorageGRID
+= 使用 BlueXP 進行 StorageGRID 管理
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
