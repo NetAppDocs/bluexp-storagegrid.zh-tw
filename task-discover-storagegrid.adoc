@@ -26,13 +26,13 @@ https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["深入
 
 .步驟
 . 從BlueXP導覽功能表中、選取*儲存設備> Canvas*。
-. 按一下「*新增工作環境*」、然後選取「*內部部署*」。
+. 選取 * 新增工作環境 * 、然後選取 * 內部部署 * 。
 . 在* StorageGRID 《*》*《*探索*》旁選取「*探索*」。
 . 如果出現提示、請建立連接器。
 +
 如需詳細資料、請參閱上述連結。
 
-. 在「_ StorageGRID 此叢集詳細資料_」頁面上、輸入管理節點的網域名稱或IP位址、節點的認證資訊、然後按一下「*新增*」。
+. 在 StorageGRID 叢集詳細資料 _ 頁面上、輸入管理節點的網域名稱或 IP 位址、節點的認證、然後選取 *Add* 。
 +
 image:screenshot-cluster-details.png["螢幕快照會顯示StorageGRID 「叢集詳細資料」頁面、您可在此輸入管理節點的網域名稱或IP位址及認證資料。"]
 
