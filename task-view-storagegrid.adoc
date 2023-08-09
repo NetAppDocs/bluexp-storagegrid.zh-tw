@@ -13,6 +13,7 @@ summary: 探索StorageGRID 完您的功能性系統之後、您可以檢視容�
 :imagesdir: ./media/
 
 
+[role="lead"]
 探索StorageGRID 完您的功能性系統之後、您可以檢視容量分配的詳細資料、以及相關的警示、節點和租戶。
 
 .步驟
