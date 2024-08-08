@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-discover-storagegrid.html 
 keywords: storagegrid, cluster, discover, manage, discovering, discover storagegrid 
-summary: BlueXP可在StorageGRID 內部部署環境中探索此功能。在StorageGRID BlueXP中新增叢集可讓您完整檢視混合式多雲端中的資料。 
+summary: 探索內部部署環境中的 StorageGRID 系統、然後使用 Grid Manager 直接從 BlueXP  進行管理。 
 ---
 = 探索StorageGRID 各種系統
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: BlueXP可在StorageGRID 內部部署環境中探索此功能。在Stora
 
 
 [role="lead"]
-BlueXP可在StorageGRID 內部部署環境中探索此功能。在StorageGRID BlueXP中新增支援功能系統、可讓您完整檢視混合式多雲端的資料。
+探索內部部署環境中的 StorageGRID 系統、然後使用 Grid Manager 直接從 BlueXP  進行管理。
 
 .開始之前
 您需要下列項目：
@@ -25,6 +25,10 @@ https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["深入
 
 * 管理節點的網域名稱或IP位址。
 * 管理節點的管理認證。
+* 安裝在 StorageGRID 系統上的管理介面憑證。
++
+https://docs.netapp.com/us-en/storagegrid-118/admin/configuring-custom-server-certificate-for-grid-manager-tenant-manager.html#add-a-custom-management-interface-certificate["深入瞭解如何在 StorageGRID 上安裝管理介面憑證"^]
+
 
 
 .步驟
@@ -35,9 +39,30 @@ https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["深入
 +
 如需詳細資料、請參閱上述連結。
 
-. 在 StorageGRID 叢集詳細資料 _ 頁面上、輸入管理節點的網域名稱或 IP 位址、節點的認證、然後選取 *Add* 。
+. 在 BlueXP  的 StorageGRID 叢集詳細資料 _ 頁面上、輸入管理節點的網域名稱或 IP 位址、節點的認證、然後選取 * 新增 * 。
 +
 image:screenshot-cluster-details.png["螢幕快照會顯示StorageGRID 「叢集詳細資料」頁面、您可在此輸入管理節點的網域名稱或IP位址及認證資料。"]
+
+. BlueXP  會自動擷取 StorageGRID 管理介面憑證。在 _ 核准憑證 _ 頁面上、檢閱憑證詳細資料。
++
+image:screenshot-bluexp-approve-certificate.png["顯示 StorageGRID 系統探索期間出現的「核准憑證」畫面的螢幕擷取畫面"]
+
+. 如果您想要使用與顯示的憑證不同的憑證、您必須先在 StorageGRID 系統上進行設定。
++
+.. 在內部部署 StorageGRID 系統中，請遵循下列指示 https://docs.netapp.com/us-en/storagegrid-118/admin/configuring-custom-server-certificate-for-grid-manager-tenant-manager.html#add-a-custom-management-interface-certificate["在 StorageGRID 上安裝管理介面憑證"^]：。
+.. 在 StorageGRID 系統中設定憑證之後、請在 BlueXP  的 _Approve 憑證 _ 頁面上選取 * 取消 * 。
+.. 在 _ StorageGRID 叢集詳細資料 _ 頁面上、選取 * 新增 * 。
+
+
+. 您也可以選擇 * 複製憑證 * 來複製憑證的詳細資料。您可以視需要使用憑證詳細資料來執行其他驗證。
+. 執行下列其中一項：
++
+.. 選取 * 核准憑證 * 以使用憑證。
++
+隨即顯示成功訊息。StorageGRID 伺服器與 BlueXP  連接器之間的所有通訊都將透過驗證核准的憑證來保護。
+
+.. 選取 * 取消 * 結束探索程序而不驗證憑證。例如、如果您收到通知您需要更新 StorageGRID 管理憑證的錯誤訊息、您可以選取 * 取消 * 。若要更新憑證、請前往 <<use-a-different-certificate,使用不同的憑證>>。
+
 
 
 

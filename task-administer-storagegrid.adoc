@@ -1,0 +1,136 @@
+---
+sidebar: sidebar 
+permalink: task-administer-storagegrid.html 
+keywords: grid manager, advanced view, standard view, use grid manager, gridmanager 
+summary: 使用進階檢視、從 BlueXP  管理 StorageGRID 系統。此檢視可讓您在 StorageGRID 工作環境中使用 Grid Manager 。 
+---
+= 使用進階檢視管理 StorageGRID
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+使用進階檢視、從 BlueXP  管理 StorageGRID 系統。此檢視可讓您在 StorageGRID 工作環境中使用 Grid Manager 。
+
+
+
+== 支援的組態
+
+從 StorageGRID 11.8 開始、 Grid Manager 可在 BlueXP  中使用。
+
+
+
+== 限制
+
+BlueXP  不提供下列 Grid Manager 作業。如果您需要執行這些作業、請直接登入 Grid Manager 。
+
+[cols="1a,2a"]
+|===
+| Grid Manager 功能表 | BlueXP  無法提供作業 
+
+
+ a| 
+使用者
+ a| 
+* 登出連結
+* API 文件連結
+* 變更密碼
+
+
+
+
+ a| 
+節點
+ a| 
+* 您無法從「節點」 > 「 SANtricity 系統管理員」標籤存取 SANtricity 系統管理員。
+* 檢視警示時、您可能無法在建議的動作中選取所有連結。例如、前往不受支援的 Grid Manager 頁面的連結將無法運作。
+
+
+
+
+ a| 
+租戶
+ a| 
+您無法從「建立租戶」精靈或「租戶」頁面登入租戶帳戶。
+
+BlueXP  目前不支援租戶管理程式。雖然您可以從 BlueXP  建立新的租戶帳戶、但租戶使用者無法從 BlueXP  登入其帳戶。
+
+
+
+ a| 
+ILM
+ a| 
+儲存等級連結
+
+
+
+ a| 
+組態
+ a| 
+* 網格密碼
+* 流量分類 > 指標
+* 安全性設定 > 瀏覽器閒置逾時
+* 單一登入
+* BMC 介面的 SNMP 代理程式 > MIB 檔案
+
+
+
+
+ a| 
+維護
+ a| 
+* 恢復套件
+* 軟體更新
+
+
+
+
+ a| 
+支援
+ a| 
+* 網格拓撲
+* 記錄
+* 計量、包括從 UI 其他位置連結至 Prometheus 指標和 Grafana 儀表板的所有連結。
+* 舊版警示的所有選項
+* 連結成本
+* NMS實體
+
+
+|===
+
+
+== 切換至進階檢視
+
+開啟 StorageGRID 工作環境、然後選取進階檢視選項。
+
+.步驟
+. 從 Canvas 頁面開啟 StorageGRID 工作環境。
+. 在右上角、選取 * 切換至進階檢視 * 。
++
+image:screenshot-advanced-view.png["StorageGRID 工作環境的螢幕擷取畫面、顯示切換至進階檢視選項。"]
+
+. 使用 Grid Manager 來管理 StorageGRID 系統。
++
+您應該注意的一個不同之處是、 Grid Manager 中的「說明」功能表已由下列功能表取代：
+
++
+image:advanced-view-menu.png["StorageGRID 工作環境的螢幕擷取畫面、畫面右上角會顯示動作功能表。"]
+
++
+除了 API 文件連結之外、此功能表中也提供所有相同的說明選項。
+
+. 如有需要、請選取切換至標準檢視、以透過 BlueXP  返回標準檢視。
++
+image:screenshot-standard-view.png["StorageGRID 工作環境的螢幕擷取畫面、顯示「切換至標準檢視」選項。"]
+
+
+
+
+
+== 取得 Grid Manager 的協助
+
+如果您需要使用 Grid Manager 的協助、請參閱 https://docs.netapp.com/us-en/storagegrid-118/admin/index.html["本文檔StorageGRID"^] 以取得逐步指示。

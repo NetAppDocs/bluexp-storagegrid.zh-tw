@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: reference-known-issues.html 
+keywords: issues, known issues, bugs, errors 
+summary: 已知問題可識別可能導致您無法成功使用本產品版本的問題。 
+---
+= 已知問題
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+已知問題可識別可能導致您無法成功使用本產品版本的問題。
+
+
+
+== 更新的顯示名稱不會出現在 BlueXP  中
+
+如果您使用重新命名程序來定義站台或網格的新顯示名稱、則新的顯示名稱不會反映在 BlueXP  工作環境中。工作環境會繼續顯示系統名稱、而非新的顯示名稱。
+
+
+
+== 篩選警示時發生錯誤
+
+使用進階檢視時、篩選「警示」頁面的內容會導致錯誤。
+
+
+
+== 編輯網格同盟連線時發生錯誤
+
+使用進階檢視時、編輯網格同盟連線時、可能會遇到閘道逾時錯誤。

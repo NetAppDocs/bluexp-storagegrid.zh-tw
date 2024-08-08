@@ -1,9 +1,9 @@
 ---
 indexpage:
   title: 使用 BlueXP 進行 StorageGRID 管理
-  summary: 從 BlueXP 探索您的 StorageGRID 系統、以完整檢視混合式多雲端的資料。
+  summary: 使用 Grid Manager 從 BlueXP  管理您的 StorageGRID 系統、並使用 BlueXP 的資料服務進行備份、資料分層等。
   keywords: storagegrid systems, bluexp, data, hybrid, multicloud
-  lead: 從 BlueXP 探索您的 StorageGRID 系統、以完整檢視混合式多雲端的資料。
+  lead: 使用 Grid Manager 從 BlueXP  管理您的 StorageGRID 系統、並使用 BlueXP 的資料服務進行備份、資料分層等。
   tiles:
   - title: 開始使用
     links:
@@ -20,7 +20,7 @@ indexpage:
   - title: 更多資訊
     links:
     - title: 適用於在BlueXP之外進行管理的文件StorageGRID
-      url: https://docs.netapp.com/us-en/storagegrid-116/
+      url: https://docs.netapp.com/us-en/storagegrid-118/
   - title: 部落格社群
     links:
     - title: NetApp社群

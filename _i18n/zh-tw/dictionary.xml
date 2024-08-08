@@ -110,13 +110,9 @@
   <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">您目前正在檢視的BlueXP文件。</block>
   <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*服務*：選取問題相關的服務。例如、特定於服務工作流程或功能的技術支援問題的BlueXP。</block>
   <block id="aa996e20900197b0ea41485ada083d8c" category="paragraph">工作環境清單位於您在服務的最上層橫幅中所選的BlueXP帳戶、工作區和Connector範圍內。</block>
-  <block id="2c71302d487f8187b7a71c37c179042c" category="summary">BlueXP可在StorageGRID 內部部署環境中探索此功能。在StorageGRID BlueXP中新增叢集可讓您完整檢視混合式多雲端中的資料。</block>
-  <block id="eceb40fde78eb6b6f2f6a7bff798d050" category="paragraph">BlueXP可在StorageGRID 內部部署環境中探索此功能。在StorageGRID BlueXP中新增支援功能系統、可讓您完整檢視混合式多雲端的資料。</block>
   <block id="3cc520598c18a9fc329389fe4ad413dd" category="paragraph">BlueXP會探索StorageGRID 整個系統、並將其新增為在Canvas.上的工作環境。</block>
   <block id="05b22a89d498371ec741a6eb2ffba0bf" category="inline-image-macro">在StorageGRID BlueXP畫版上顯示運作環境的快照。</block>
   <block id="6f0596d444e255bb3e396f1b15172e09" category="paragraph"><block ref="6f0596d444e255bb3e396f1b15172e09" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="54bd03a569afb098328ca82511616f55" category="summary">在StorageGRID 您發現BlueXP中的一套功能完善的系統之後、您就可以使用NetApp的資料服務StorageGRID 搭配使用以進行備份和資料同步。</block>
-  <block id="b88241859cee076fd3a4ddaeda099288" category="paragraph">在StorageGRID 您發現BlueXP中的一套功能完善的系統之後、您就可以使用NetApp的資料服務來進行備份和資料同步。</block>
   <block id="c99454978b70ce8c05ee8d05b1e2aaaf" category="summary">瞭StorageGRID 解如何在BlueXP中管理功能不全的系統。</block>
   <block id="0b17baeba205d071cc0142cf4aba9b76" category="paragraph">您現在StorageGRID 可以直接從BlueXP探索您的解決方案。探索StorageGRID 功能可讓您完整檢視混合式多雲端的資料。</block>
   <block id="6f6c91d32f256a6b43783564031a35dc" category="sidebar">適用於在BlueXP之外進行管理的文件StorageGRID</block>
@@ -213,7 +209,6 @@
   <block id="f5135b68b75a8404803a1eb438e40c5e" category="list-text">升級Cloud Volumes ONTAP 更新版的更新版</block>
   <block id="39f382b97080640c75604b5890f3a5d3" category="paragraph">將 NSS 認證與 BlueXP 帳戶建立關聯、與 BlueXP 使用者登入相關的 NSS 帳戶不同。</block>
   <block id="e3bc6d35311568d55f1c8ea11984b964" category="paragraph">這些 NSS 認證會與您的特定 BlueXP 帳戶 ID 相關聯。屬於BlueXP帳戶的使用者可以從*支援&gt; nss管理*存取這些認證資料。</block>
-  <block id="b200dbe3ac15ec0df201a92f5a178425" category="summary">從 BlueXP 探索您的 StorageGRID 系統、以完整檢視混合式多雲端的資料。</block>
   <block id="e49fe84ab9de0d0293be60cd1cd89c71" category="doc">使用 BlueXP 進行 StorageGRID 管理</block>
   <block id="0307a12e5749f8dd930472ee78f69d2c" category="list-text">在 BlueXP 主控台的右上角、選取「設定」圖示、然後選取 * 認證 * 。</block>
   <block id="f19ab635e6d5f884a22ee4ce067fdbfd" category="list-text">選取 * 使用者認證 * 。</block>
@@ -224,7 +219,6 @@
   <block id="69e6c31f6140607f08425260f2faecb5" category="list-text">從導覽功能表中、選取*儲存設備&gt; Canvas*。</block>
   <block id="6d6c5d7b899ea63b1f3c62a6a3d3aded" category="list-text">在「畫布」頁面上、選取您要檢視的 StorageGRID 工作環境。</block>
   <block id="8f20fc8b3a6d888979d83b127b3a4d75" category="list-text">選取 * 新增工作環境 * 、然後選取 * 內部部署 * 。</block>
-  <block id="93ad647dcc5c80e370a62d0e1bd59efd" category="list-text">在 StorageGRID 叢集詳細資料 _ 頁面上、輸入管理節點的網域名稱或 IP 位址、節點的認證、然後選取 *Add* 。</block>
   <block id="7fe6981833e8fe7fd89e0a99a55573da" category="list-text">在 BlueXP 中、選取 * 說明 &gt; 支援 * 。</block>
   <block id="6a1b74969231967ed071d465206b15c7" category="list-text">如果您想與電話上的某人通話、請選取 * 致電 * 。您將會被導向netapp.com上的頁面、其中列出您可以撥打的電話號碼。</block>
   <block id="d65a2a6fc9caad1867728d4382eeb989" category="list-text">選擇 * 建立案例 * 、與 NetApp 支援專家一起開啟 Ticket ：</block>
@@ -235,7 +229,6 @@
   <block id="348552521b849746260fe8d296d34c15" category="list-text">選取以管理現有案例 <block ref="566c029d89e7d5421080767a37bf443e" category="inline-image-macro-rx" type="image"></block> 並選擇其中一個可用選項：</block>
   <block id="bb6d5d351525342dd6b3cf4d15b6f298" category="list-text">* 結案案例 * ：提供結案原因的詳細資料、並選取 * 結案案例 * 。</block>
   <block id="406c30b739850b514bd88f29f8026dcb" category="list-text">在 Canvas 頁面上、選取 StorageGRID 工作環境。</block>
-  <block id="b8dc050f4cabd621e66612bd76c5bb89" category="list-text">選取功能表圖示、然後選取 * 從 Workspace* 移除。</block>
   <block id="b7dd0331ad4ede9488c2fd01dda69e83" category="list-text">選取 * 移除 * 以確認。</block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
   <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
@@ -256,4 +249,118 @@
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
   <block id="a9e825fa00a6490b83a7ab53e320af9a" category="sidebar">移除工作環境</block>
   <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp 使用 Microsoft Entra ID 做為身分識別提供者、提供專為支援與授權所設計的驗證服務。</block>
+  <block id="34515f1d88b10d0db0a78eba6c533394" category="summary">已知問題可識別可能導致您無法成功使用本產品版本的問題。</block>
+  <block id="95dc0391ce7b396d7dd5622284e8fc3e" category="doc">已知問題</block>
+  <block id="406e3fd6e3e44c34fe5128c92e258696" category="section-title">更新的顯示名稱不會出現在 BlueXP  中</block>
+  <block id="f3d3237068f97452e5b4aa1b7132e2ca" category="paragraph">如果您使用重新命名程序來定義站台或網格的新顯示名稱、則新的顯示名稱不會反映在 BlueXP  工作環境中。工作環境會繼續顯示系統名稱、而非新的顯示名稱。</block>
+  <block id="4184c004c3d306eac4540e4aefb2f6a9" category="section-title">篩選警示時發生錯誤</block>
+  <block id="57e6970cf13aa98ffd7faf72c61853bb" category="paragraph">使用進階檢視時、篩選「警示」頁面的內容會導致錯誤。</block>
+  <block id="1998a0486c5c4169c29f007cc908c1d7" category="section-title">編輯網格同盟連線時發生錯誤</block>
+  <block id="5094a282c5a9bba09561ad9a388f91c5" category="paragraph">使用進階檢視時、編輯網格同盟連線時、可能會遇到閘道逾時錯誤。</block>
+  <block id="ca95441ef4631129374f024b6d393b1f" category="summary">使用進階檢視、從 BlueXP  管理 StorageGRID 系統。此檢視可讓您在 StorageGRID 工作環境中使用 Grid Manager 。</block>
+  <block id="21bd2ca4d81529bdc81f70cd7c8cda30" category="doc">使用進階檢視管理 StorageGRID</block>
+  <block id="1f0b82560627b660c6c6958a1df834b8" category="section-title">支援的組態</block>
+  <block id="305098a5de64e9f68d6eda7ca5dbf5a0" category="paragraph">從 StorageGRID 11.8 開始、 Grid Manager 可在 BlueXP  中使用。</block>
+  <block id="e646e16bee8b32e6ea29e30d01970a6c" category="section-title">限制</block>
+  <block id="ca3a25e6f7a6261aa863d68a55e50f76" category="paragraph">BlueXP  不提供下列 Grid Manager 作業。如果您需要執行這些作業、請直接登入 Grid Manager 。</block>
+  <block id="e56c7ead55fc1e5f499eae95a4a912b3" category="cell">Grid Manager 功能表</block>
+  <block id="7456c3a0c9b400bcee741b332ff9065d" category="cell">BlueXP  無法提供作業</block>
+  <block id="8f9bfe9d1345237cb3b2b205864da075" category="paragraph">使用者</block>
+  <block id="f37627b09b882611b44ff399a9c378e9" category="list-text">登出連結</block>
+  <block id="baeaf581efec254c255d808076ebb8b5" category="list-text">API 文件連結</block>
+  <block id="0b39c5aca15b84b1ad53a94d6b3feb78" category="list-text">變更密碼</block>
+  <block id="187c6ad3a74cc93ac6c2229d398e383e" category="paragraph">節點</block>
+  <block id="3a4d215d512d4ae5edd991d81bf9972e" category="list-text">您無法從「節點」 &gt; 「 SANtricity 系統管理員」標籤存取 SANtricity 系統管理員。</block>
+  <block id="97e48133192510ab2ce4a4c7af40d7c1" category="list-text">檢視警示時、您可能無法在建議的動作中選取所有連結。例如、前往不受支援的 Grid Manager 頁面的連結將無法運作。</block>
+  <block id="ab46b0da4c689d676afbc74038c40f71" category="paragraph">租戶</block>
+  <block id="52e8a870e31fcf345b37b10609383a35" category="paragraph">您無法從「建立租戶」精靈或「租戶」頁面登入租戶帳戶。</block>
+  <block id="0571f42ac82b33bb3b9fad8f666edd67" category="paragraph">BlueXP  目前不支援租戶管理程式。雖然您可以從 BlueXP  建立新的租戶帳戶、但租戶使用者無法從 BlueXP  登入其帳戶。</block>
+  <block id="45a63ab8cbf11a8d14e5315e7199fcbd" category="paragraph">ILM</block>
+  <block id="d1760d83776d2cad4f596e5fbdca7031" category="paragraph">儲存等級連結</block>
+  <block id="254f642527b45bc260048e30704edb39" category="paragraph">組態</block>
+  <block id="8e8a68d187d0714e364a531fe90c3e48" category="list-text">網格密碼</block>
+  <block id="4e4b4ed3fd3d46ee1adfbe44d5d59f43" category="list-text">流量分類 &gt; 指標</block>
+  <block id="a48031b9725d4cf40505c76b9f1639b6" category="list-text">安全性設定 &gt; 瀏覽器閒置逾時</block>
+  <block id="f349dbd269e091419d25308532e10fa9" category="list-text">單一登入</block>
+  <block id="ca0fa3abc1c867e840da53c9362947e0" category="list-text">BMC 介面的 SNMP 代理程式 &gt; MIB 檔案</block>
+  <block id="10d0de28911c5f66463b9c8783f8148a" category="paragraph">維護</block>
+  <block id="1c099fee7c6387b021909926b4fbcf98" category="list-text">恢復套件</block>
+  <block id="c329847c5a9eb54120dcc6a37e7688cd" category="list-text">軟體更新</block>
+  <block id="db5eb84117d06047c97c9a0191b5fffe" category="paragraph">支援</block>
+  <block id="18e8755b803a7bb837ea9fdd4a198fcf" category="list-text">網格拓撲</block>
+  <block id="b2d37ae1cedf42ff874289b721860af2" category="list-text">記錄</block>
+  <block id="e3c28fcb661163dc6895b75c04f2efd7" category="list-text">計量、包括從 UI 其他位置連結至 Prometheus 指標和 Grafana 儀表板的所有連結。</block>
+  <block id="398728716b4e5021932fed1c2a8ebeb8" category="list-text">舊版警示的所有選項</block>
+  <block id="62e734353c5cfd6023d970172d9908a9" category="list-text">連結成本</block>
+  <block id="5afeba0bd099057d2f768c19f06ec2da" category="list-text">NMS實體</block>
+  <block id="3862c7ad20b0923cf8f9b1be9e028f11" category="section-title">切換至進階檢視</block>
+  <block id="dca5530b7cbaaea67b0c8d5cb6158e4c" category="paragraph">開啟 StorageGRID 工作環境、然後選取進階檢視選項。</block>
+  <block id="3d999d1b9f9b777ebfbfa7f1318c804f" category="list-text">從 Canvas 頁面開啟 StorageGRID 工作環境。</block>
+  <block id="692e1e106333597b5a86044f5e0af539" category="list-text">在右上角、選取 * 切換至進階檢視 * 。</block>
+  <block id="507372019d28fd0eafd2c78e55dd76b1" category="inline-image-macro">StorageGRID 工作環境的螢幕擷取畫面、顯示切換至進階檢視選項。</block>
+  <block id="c773beb9e5504345109d5b8f63ffae18" category="paragraph"><block ref="c773beb9e5504345109d5b8f63ffae18" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4b233cf02f1889c420108e8345cc0030" category="list-text">使用 Grid Manager 來管理 StorageGRID 系統。</block>
+  <block id="7c172735790e8cc4c9872774830ec348" category="paragraph">您應該注意的一個不同之處是、 Grid Manager 中的「說明」功能表已由下列功能表取代：</block>
+  <block id="e94ee64c9feb1bac535b160442e2478d" category="inline-image-macro">StorageGRID 工作環境的螢幕擷取畫面、畫面右上角會顯示動作功能表。</block>
+  <block id="4abd7b0e29ad85015c2ab957554dd1f2" category="paragraph"><block ref="4abd7b0e29ad85015c2ab957554dd1f2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="26ae08b3bd9f7a3c87ee9c1d77d4b82b" category="paragraph">除了 API 文件連結之外、此功能表中也提供所有相同的說明選項。</block>
+  <block id="353a38b7d64b63f77c3a30bb9e354366" category="list-text">如有需要、請選取切換至標準檢視、以透過 BlueXP  返回標準檢視。</block>
+  <block id="c3be445d4276660b8cb6c62e48bd1553" category="inline-image-macro">StorageGRID 工作環境的螢幕擷取畫面、顯示「切換至標準檢視」選項。</block>
+  <block id="a7b062924ce28d07b0b9507476bc7af4" category="paragraph"><block ref="a7b062924ce28d07b0b9507476bc7af4" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="e5e3035b0f7e5a2843ab139092d0b6fa" category="section-title">取得 Grid Manager 的協助</block>
+  <block id="3778f3873debfe11e2ace6bb6af1e417" category="inline-link">本文檔StorageGRID</block>
+  <block id="e05b3769a3e17ad902ca3ef85360d7f9" category="paragraph">如果您需要使用 Grid Manager 的協助、請參閱<block ref="a933c7261fbaa2ef6900890d35e68b11" category="inline-link-rx"></block> 以取得逐步指示。</block>
+  <block id="66bf914b4a3e3fe55e547c93de610f4f" category="summary">探索內部部署環境中的 StorageGRID 系統、然後使用 Grid Manager 直接從 BlueXP  進行管理。</block>
+  <block id="7946381c1469da9982f0ec23675e074e" category="list-text">安裝在 StorageGRID 系統上的管理介面憑證。</block>
+  <block id="899334f483a8eb1e661e504ffe749109" category="inline-link">深入瞭解如何在 StorageGRID 上安裝管理介面憑證</block>
+  <block id="29f8a7fdcc1561634392c06486db3526" category="paragraph"><block ref="29f8a7fdcc1561634392c06486db3526" category="inline-link-rx"></block></block>
+  <block id="8f39c6397486565c889c697d2ee0f204" category="list-text">在 BlueXP  的 StorageGRID 叢集詳細資料 _ 頁面上、輸入管理節點的網域名稱或 IP 位址、節點的認證、然後選取 * 新增 * 。</block>
+  <block id="883de86cf908ad706df604bca20d6e9d" category="list-text">BlueXP  會自動擷取 StorageGRID 管理介面憑證。在 _ 核准憑證 _ 頁面上、檢閱憑證詳細資料。</block>
+  <block id="bd9fb575ba237f8ebfeb0706ecdcbb14" category="inline-image-macro">顯示 StorageGRID 系統探索期間出現的「核准憑證」畫面的螢幕擷取畫面</block>
+  <block id="5d2ec429ab6adc62b7ef0809eb5d31b6" category="paragraph"><block ref="5d2ec429ab6adc62b7ef0809eb5d31b6" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="99ffc4996ddbc66ec3d88c9143de92ee" category="list-text">如果您想要使用與顯示的憑證不同的憑證、您必須先在 StorageGRID 系統上進行設定。</block>
+  <block id="fd6ef625f97076ff9598106b60195180" category="inline-link">在 StorageGRID 上安裝管理介面憑證</block>
+  <block id="7ca143532806a5c7adafe28564a2076a" category="list-text">在內部部署 StorageGRID 系統中，請遵循下列指示<block ref="0cf12816ab392319fa8fa5ca90f97c92" category="inline-link-rx"></block>：。</block>
+  <block id="db712f470bd74a71528f96d96eeba458" category="list-text">在 StorageGRID 系統中設定憑證之後、請在 BlueXP  的 _Approve 憑證 _ 頁面上選取 * 取消 * 。</block>
+  <block id="9ae82cb65355b4df3873a1db559ff935" category="list-text">在 _ StorageGRID 叢集詳細資料 _ 頁面上、選取 * 新增 * 。</block>
+  <block id="f366bb321d887c34c28635516c2e2a3f" category="list-text">您也可以選擇 * 複製憑證 * 來複製憑證的詳細資料。您可以視需要使用憑證詳細資料來執行其他驗證。</block>
+  <block id="365d382b2d9ecca9b0d40171c69b38ff" category="list-text">執行下列其中一項：</block>
+  <block id="45423c15c9f7fc300b5c31e290fcb524" category="list-text">選取 * 核准憑證 * 以使用憑證。</block>
+  <block id="deac8378c59fe3d88512463d35486723" category="paragraph">隨即顯示成功訊息。StorageGRID 伺服器與 BlueXP  連接器之間的所有通訊都將透過驗證核准的憑證來保護。</block>
+  <block id="6502d6f8bcdbec889abfd4f9ee49d279" category="inline-xref">使用不同的憑證</block>
+  <block id="11c83ac6af0af0d96eb2efd46a58e4d7" category="list-text">選取 * 取消 * 結束探索程序而不驗證憑證。例如、如果您收到通知您需要更新 StorageGRID 管理憑證的錯誤訊息、您可以選取 * 取消 * 。若要更新憑證、請前往 <block ref="cbb87429ce09864118ddd4cf8178f97a" category="inline-xref-macro-rx"></block>。</block>
+  <block id="2e554a31f32eb1a9d79a5d2cc2bede8e" category="summary">在 BlueXP  中發現 StorageGRID 系統之後、您可以使用 NetApp 的資料服務來進行備份、資料分層和資料同步。</block>
+  <block id="4eab2e2a950d4847ea3f57ddbc97670b" category="list-text">使用 BlueXP  分層功能、將內部部署 ONTAP 叢集的非使用中資料自動分層至 StorageGRID 。</block>
+  <block id="39759be047cc5c7c6c37b3a3c14c7616" category="inline-link">深入瞭解如何將內部部署 ONTAP 叢集的資料分層至 StorageGRID</block>
+  <block id="f2c38058631be40aaf2ca546dedb5828" category="paragraph"><block ref="f2c38058631be40aaf2ca546dedb5828" category="inline-link-rx"></block></block>
+  <block id="1c0cf398fca729802189afd04195daca" category="summary">由於憑證可能過期、您可能偶爾需要檢視狀態或更新憑證。</block>
+  <block id="caa195df7a0b5a440b3683eb81e694b5" category="doc">在 BlueXP  中管理憑證</block>
+  <block id="1fb464c67404a14a65cf030b2f0f97f0" category="paragraph">使用者核准的管理介面憑證是 BlueXP  與 StorageGRID 之間安全連線所需的。由於憑證可能過期、您可能偶爾需要檢視狀態或更新憑證。</block>
+  <block id="67eb5446652b4fd2dad98eddc62be98d" category="section-title">檢視管理推斷憑證狀態</block>
+  <block id="6b3bbbb8c1a9c2cde18108cb407d12b1" category="list-text">從標準檢視中、檢查頁面右側 _ 資訊 _ 窗格底部的使用者核准憑證狀態。</block>
+  <block id="5c8aefe50da5e68bac8b7fadb69f27cd" category="admonition">憑證狀態會每 24 小時重新整理一次。</block>
+  <block id="eef982d819b54dca84adf5a46c7d66a3" category="inline-image-macro">工作環境中「資訊」窗格的螢幕擷取畫面。</block>
+  <block id="2b7070d3984c3c33331810ef399a04bf" category="paragraph"><block ref="2b7070d3984c3c33331810ef399a04bf" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ed705c097546086b65ee2918f8c18f93" category="section-title">更新管理介面憑證</block>
+  <block id="3daf5f764d9eac915ca7f7ab4335d201" category="paragraph">如果您的管理介面憑證狀態無效、或您收到憑證過期的通知、則需要更新該憑證、 BlueXP  才能連線至 StorageGRID 。</block>
+  <block id="4b4e284cad41e74d772677e47ccbf432" category="list-text">請前往 StorageGRID 中的內部部署 Grid Manager 、並遵循的指示<block ref="e4a1425c9a71162659bfbfada9a25737" category="inline-link-rx"></block>進行。</block>
+  <block id="9e2635fdb6db86b89da8e5e9cad203da" category="list-text">在藍色 XP 導覽功能表中、選取 * 儲存 &gt; Canvas * 。</block>
+  <block id="40540158a277d365081d54ce377ee023" category="list-text">選擇更多選項圖示（三個垂直點的圓圈）。</block>
+  <block id="9769a2363939e90bde7efa3d07411abc" category="inline-image-macro">更新功能表的螢幕擷取畫面。</block>
+  <block id="37ed989771f3eef279909a198294f53c" category="paragraph"><block ref="37ed989771f3eef279909a198294f53c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="de70401c3464a4edf8505f4b7a4258de" category="list-text">選取 * 更新憑證 * 。</block>
+  <block id="cf96257e362bc3de2bdd4efd448d70aa" category="admonition">您也可以使用「標準」檢視中的「更多選項」圖示（具有三個垂直點的圖示）來更新憑證。</block>
+  <block id="434da4cffed06e08c23765d021db1afc" category="list-text">在「核准憑證」頁面上、選取 * 核准憑證 * 以使用更新的憑證。</block>
+  <block id="101a4dba130db08f412262b11097db65" category="list-text">從標準檢視中、選取功能表圖示、然後選取 * 從 Workspace* 移除。</block>
+  <block id="43371a1519dc6641cd8852962e536c3e" category="section-title">2024 年 8 月 7 日</block>
+  <block id="9e171afa6c3124020f16e21de1c7b2f4" category="section-title">全新進階檢視</block>
+  <block id="0f58e681c3f3ea59c830353dd632a86c" category="paragraph">從 StorageGRID 11.8 開始、您可以使用熟悉的 Grid Manager 介面、從 BlueXP  管理您的 StorageGRID 系統。</block>
+  <block id="af7b48fef3ac95547bce2972839785af" category="inline-link">瞭解如何使用進階檢視來管理 StorageGRID</block>
+  <block id="71bde38d3a1a0761ad0419a2db79d0c4" category="paragraph"><block ref="bcae03490ee8ad952aee993e2ae5e7eb" category="inline-link-rx"></block>。</block>
+  <block id="04862482c3a7e313dee1294875d76a61" category="section-title">能夠檢閱及核准 StorageGRID 管理介面憑證</block>
+  <block id="7ef5c031e9bd4c1394a8093c50afe4e2" category="paragraph">您現在可以在從 BlueXP  探索 StorageGRID 系統時、檢閱及核准 StorageGRID 管理介面憑證。您也可以在探索到的網格上檢閱及核准最新的 StorageGRID 管理介面憑證。</block>
+  <block id="4a314d3b77101d6faf44fa4063c45276" category="inline-link">瞭解如何在系統探索期間檢閱及核准伺服器憑證。</block>
+  <block id="045269b1f12b0a8f2aee954f43a8daa6" category="paragraph"><block ref="045269b1f12b0a8f2aee954f43a8daa6" category="inline-link-rx"></block></block>
+  <block id="bf8b4b4bc9546fbf0734766cd0ad6317" category="sidebar">使用 Grid Manager 從 BlueXP  管理您的 StorageGRID 系統、並使用 BlueXP 的資料服務進行備份、資料分層等。</block>
+  <block id="951d3fc54a28f9f46798897467d96a5b" category="sidebar">管理憑證</block>
 </blocks>

@@ -16,6 +16,8 @@ sidebar:
     entries:
     - title: 新增功能
       url: "/whats-new.html"
+    - title: 已知問題
+      url: "/reference-known-issues.html"
   - title: 開始使用
     entries:
     - title: 探索StorageGRID 各種系統
@@ -24,6 +26,10 @@ sidebar:
     entries:
     - title: 檢視StorageGRID 您的系統
       url: "/task-view-storagegrid.html"
+    - title: 管理憑證
+      url: "/task-manage-certificates.html"
+    - title: 使用進階檢視管理 StorageGRID
+      url: task-administer-storagegrid.html
     - title: 搭配StorageGRID 使用NetApp資料服務
       url: "/task-enable-data-services.html"
     - title: 移除工作環境
