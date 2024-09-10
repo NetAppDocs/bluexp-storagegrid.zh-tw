@@ -61,7 +61,13 @@ image:screenshot-bluexp-approve-certificate.png["顯示 StorageGRID 系統探索
 +
 隨即顯示成功訊息。StorageGRID 伺服器與 BlueXP  連接器之間的所有通訊都將透過驗證核准的憑證來保護。
 
-.. 選取 * 取消 * 結束探索程序而不驗證憑證。例如、如果您收到通知您需要更新 StorageGRID 管理憑證的錯誤訊息、您可以選取 * 取消 * 。若要更新憑證、請前往 <<use-a-different-certificate,使用不同的憑證>>。
+.. 選取 * 取消 * 結束探索程序而不驗證憑證。
++
+例如、如果您收到通知您需要更新 StorageGRID 管理憑證的錯誤訊息、您可以選取 * 取消 * 。
+
++
+若要更新憑證、請前往您的 StorageGRID 系統、更新憑證、然後從 BlueXP  重新啟動探索程序。
+
 
 
 

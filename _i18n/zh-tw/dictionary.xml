@@ -327,16 +327,11 @@
   <block id="365d382b2d9ecca9b0d40171c69b38ff" category="list-text">執行下列其中一項：</block>
   <block id="45423c15c9f7fc300b5c31e290fcb524" category="list-text">選取 * 核准憑證 * 以使用憑證。</block>
   <block id="deac8378c59fe3d88512463d35486723" category="paragraph">隨即顯示成功訊息。StorageGRID 伺服器與 BlueXP  連接器之間的所有通訊都將透過驗證核准的憑證來保護。</block>
-  <block id="6502d6f8bcdbec889abfd4f9ee49d279" category="inline-xref">使用不同的憑證</block>
-  <block id="11c83ac6af0af0d96eb2efd46a58e4d7" category="list-text">選取 * 取消 * 結束探索程序而不驗證憑證。例如、如果您收到通知您需要更新 StorageGRID 管理憑證的錯誤訊息、您可以選取 * 取消 * 。若要更新憑證、請前往 <block ref="cbb87429ce09864118ddd4cf8178f97a" category="inline-xref-macro-rx"></block>。</block>
   <block id="2e554a31f32eb1a9d79a5d2cc2bede8e" category="summary">在 BlueXP  中發現 StorageGRID 系統之後、您可以使用 NetApp 的資料服務來進行備份、資料分層和資料同步。</block>
   <block id="4eab2e2a950d4847ea3f57ddbc97670b" category="list-text">使用 BlueXP  分層功能、將內部部署 ONTAP 叢集的非使用中資料自動分層至 StorageGRID 。</block>
   <block id="39759be047cc5c7c6c37b3a3c14c7616" category="inline-link">深入瞭解如何將內部部署 ONTAP 叢集的資料分層至 StorageGRID</block>
   <block id="f2c38058631be40aaf2ca546dedb5828" category="paragraph"><block ref="f2c38058631be40aaf2ca546dedb5828" category="inline-link-rx"></block></block>
   <block id="1c0cf398fca729802189afd04195daca" category="summary">由於憑證可能過期、您可能偶爾需要檢視狀態或更新憑證。</block>
-  <block id="caa195df7a0b5a440b3683eb81e694b5" category="doc">在 BlueXP  中管理憑證</block>
-  <block id="1fb464c67404a14a65cf030b2f0f97f0" category="paragraph">使用者核准的管理介面憑證是 BlueXP  與 StorageGRID 之間安全連線所需的。由於憑證可能過期、您可能偶爾需要檢視狀態或更新憑證。</block>
-  <block id="67eb5446652b4fd2dad98eddc62be98d" category="section-title">檢視管理推斷憑證狀態</block>
   <block id="6b3bbbb8c1a9c2cde18108cb407d12b1" category="list-text">從標準檢視中、檢查頁面右側 _ 資訊 _ 窗格底部的使用者核准憑證狀態。</block>
   <block id="5c8aefe50da5e68bac8b7fadb69f27cd" category="admonition">憑證狀態會每 24 小時重新整理一次。</block>
   <block id="eef982d819b54dca84adf5a46c7d66a3" category="inline-image-macro">工作環境中「資訊」窗格的螢幕擷取畫面。</block>
@@ -344,12 +339,10 @@
   <block id="ed705c097546086b65ee2918f8c18f93" category="section-title">更新管理介面憑證</block>
   <block id="3daf5f764d9eac915ca7f7ab4335d201" category="paragraph">如果您的管理介面憑證狀態無效、或您收到憑證過期的通知、則需要更新該憑證、 BlueXP  才能連線至 StorageGRID 。</block>
   <block id="4b4e284cad41e74d772677e47ccbf432" category="list-text">請前往 StorageGRID 中的內部部署 Grid Manager 、並遵循的指示<block ref="e4a1425c9a71162659bfbfada9a25737" category="inline-link-rx"></block>進行。</block>
-  <block id="9e2635fdb6db86b89da8e5e9cad203da" category="list-text">在藍色 XP 導覽功能表中、選取 * 儲存 &gt; Canvas * 。</block>
   <block id="40540158a277d365081d54ce377ee023" category="list-text">選擇更多選項圖示（三個垂直點的圓圈）。</block>
   <block id="9769a2363939e90bde7efa3d07411abc" category="inline-image-macro">更新功能表的螢幕擷取畫面。</block>
   <block id="37ed989771f3eef279909a198294f53c" category="paragraph"><block ref="37ed989771f3eef279909a198294f53c" category="inline-image-macro-rx" type="image"></block></block>
   <block id="de70401c3464a4edf8505f4b7a4258de" category="list-text">選取 * 更新憑證 * 。</block>
-  <block id="cf96257e362bc3de2bdd4efd448d70aa" category="admonition">您也可以使用「標準」檢視中的「更多選項」圖示（具有三個垂直點的圖示）來更新憑證。</block>
   <block id="434da4cffed06e08c23765d021db1afc" category="list-text">在「核准憑證」頁面上、選取 * 核准憑證 * 以使用更新的憑證。</block>
   <block id="101a4dba130db08f412262b11097db65" category="list-text">從標準檢視中、選取功能表圖示、然後選取 * 從 Workspace* 移除。</block>
   <block id="43371a1519dc6641cd8852962e536c3e" category="section-title">2024 年 8 月 7 日</block>
@@ -362,5 +355,12 @@
   <block id="4a314d3b77101d6faf44fa4063c45276" category="inline-link">瞭解如何在系統探索期間檢閱及核准伺服器憑證。</block>
   <block id="045269b1f12b0a8f2aee954f43a8daa6" category="paragraph"><block ref="045269b1f12b0a8f2aee954f43a8daa6" category="inline-link-rx"></block></block>
   <block id="bf8b4b4bc9546fbf0734766cd0ad6317" category="sidebar">使用 Grid Manager 從 BlueXP  管理您的 StorageGRID 系統、並使用 BlueXP 的資料服務進行備份、資料分層等。</block>
-  <block id="951d3fc54a28f9f46798897467d96a5b" category="sidebar">管理憑證</block>
+  <block id="57451516de60f65a613633c72a543441" category="list-text">選取 * 取消 * 結束探索程序而不驗證憑證。</block>
+  <block id="8573a317227bda2e8dcf6245b9035011" category="paragraph">例如、如果您收到通知您需要更新 StorageGRID 管理憑證的錯誤訊息、您可以選取 * 取消 * 。</block>
+  <block id="e9b0047ba9b98249dc4a3e9bc46a658e" category="paragraph">若要更新憑證、請前往您的 StorageGRID 系統、更新憑證、然後從 BlueXP  重新啟動探索程序。</block>
+  <block id="a604d96f80b6dcdc7ff27801d921e9b3" category="doc">在 BlueXP  中檢視及更新 StorageGRID 憑證</block>
+  <block id="cac8f8d491009407dfbdb3b442860ade" category="paragraph">您必須先在 StorageGRID 系統上取得管理介面憑證、才能從 BlueXP  探索系統。憑證可在 BlueXP  和 StorageGRID 之間提供安全連線。由於憑證可能過期、您可能偶爾需要檢視狀態或更新憑證。</block>
+  <block id="fbd54ca9d42fc0afdb26c5c699c8e55e" category="section-title">檢視管理介面憑證的狀態</block>
+  <block id="ac2871047714af92edb3022cb27acb51" category="paragraph">檢視 StorageGRID 系統的管理介面憑證狀態、以確認憑證仍然有效。</block>
+  <block id="fb6e1263028aaf83a98c38f91ee467e9" category="sidebar">檢視及更新 StorageGRID 憑證</block>
 </blocks>

@@ -4,7 +4,7 @@ permalink: task-manage-certificates.html
 keywords: storagegrid, certificate, manage, manage interface certificate, refresh certificate, update certificate 
 summary: 由於憑證可能過期、您可能偶爾需要檢視狀態或更新憑證。 
 ---
-= 在 BlueXP  中管理憑證
+= 在 BlueXP  中檢視及更新 StorageGRID 憑證
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -14,11 +14,13 @@ summary: 由於憑證可能過期、您可能偶爾需要檢視狀態或更新�
 
 
 [role="lead"]
-使用者核准的管理介面憑證是 BlueXP  與 StorageGRID 之間安全連線所需的。由於憑證可能過期、您可能偶爾需要檢視狀態或更新憑證。
+您必須先在 StorageGRID 系統上取得管理介面憑證、才能從 BlueXP  探索系統。憑證可在 BlueXP  和 StorageGRID 之間提供安全連線。由於憑證可能過期、您可能偶爾需要檢視狀態或更新憑證。
 
 
 
-== 檢視管理推斷憑證狀態
+== 檢視管理介面憑證的狀態
+
+檢視 StorageGRID 系統的管理介面憑證狀態、以確認憑證仍然有效。
 
 .步驟
 . 從導覽功能表中、選取*儲存設備> Canvas*。
@@ -41,19 +43,15 @@ image:screenshot-standard-view-information.png["工作環境中「資訊」窗�
 
 .步驟
 . 請前往 StorageGRID 中的內部部署 Grid Manager 、並遵循的指示 https://docs.netapp.com/us-en/storagegrid-118/admin/configuring-custom-server-certificate-for-grid-manager-tenant-manager.html#add-a-custom-management-interface-certificate["在 StorageGRID 上安裝管理介面憑證"]進行。
-. 在藍色 XP 導覽功能表中、選取 * 儲存 > Canvas * 。
+. 從BlueXP導覽功能表中、選取*儲存設備> Canvas*。
 . 在 Canvas 頁面上、選取 StorageGRID 工作環境。
 . 選擇更多選項圖示（三個垂直點的圓圈）。
 +
 image:screenshot-update-certificate.png["更新功能表的螢幕擷取畫面。"]
 
 . 選取 * 更新憑證 * 。
-+
-
-NOTE: 您也可以使用「標準」檢視中的「更多選項」圖示（具有三個垂直點的圖示）來更新憑證。
-
+. 在「核准憑證」頁面上、選取 * 核准憑證 * 以使用更新的憑證。
 +
 image:screenshot-bluexp-approve-certificate.png["顯示 StorageGRID 系統探索期間出現的「核准憑證」畫面的螢幕擷取畫面"]
 
-. 在「核准憑證」頁面上、選取 * 核准憑證 * 以使用更新的憑證。
 

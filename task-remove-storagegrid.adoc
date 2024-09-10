@@ -20,7 +20,7 @@ summary: 如果StorageGRID 您不想再從BlueXP管理這個功能、請移除�
 
 .步驟
 . 從導覽功能表中、選取*儲存設備> Canvas*。
-. 在 Canvas 頁面上、選取 StorageGRID 工作環境。
+. 從 Canvas 頁面開啟 StorageGRID 工作環境。
 . 從標準檢視中、選取功能表圖示、然後選取 * 從 Workspace* 移除。
 +
 image:screenshot-remove.png["工作環境右上角功能表中的「從工作區移除」選項快照。"]

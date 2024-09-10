@@ -26,7 +26,7 @@ sidebar:
     entries:
     - title: 檢視StorageGRID 您的系統
       url: "/task-view-storagegrid.html"
-    - title: 管理憑證
+    - title: 檢視及更新 StorageGRID 憑證
       url: "/task-manage-certificates.html"
     - title: 使用進階檢視管理 StorageGRID
       url: task-administer-storagegrid.html
