@@ -19,7 +19,10 @@ summary: 探索內部部署環境中的 StorageGRID 系統、然後使用 Grid M
 .開始之前
 您需要下列項目：
 
-* 連接器安裝在雲端供應商或內部部署環境中、可透過網路連線至StorageGRID 該系統。
+* 執行 3.9.43 版或更新版本的連接器、可與 StorageGRID 系統進行網路連線。
++
+Connector 可以位於雲端或內部部署。它只需要與 StorageGRID 系統的網路連線。
+
 +
 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["深入瞭解連接器及如何建立連接器"^]
 
