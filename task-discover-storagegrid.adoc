@@ -19,7 +19,8 @@ summary: 探索內部部署環境中的 StorageGRID 系統、然後使用 Grid M
 .開始之前
 您需要下列項目：
 
-* 執行 3.9.43 版或更新版本的連接器、可與 StorageGRID 系統進行網路連線。
+* 使用 3.9.43 版或更新版本全新安裝 Connector 。
+* 連接器與 StorageGRID 系統之間的網路連線。
 +
 Connector 可以位於雲端或內部部署。它只需要與 StorageGRID 系統的網路連線。
 
