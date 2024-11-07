@@ -1,0 +1,19 @@
+= 全新進階檢視
+:allow-uri-read: 
+
+
+
+
+=== 全新進階檢視
+
+從 StorageGRID 11.8 開始、您可以使用熟悉的 Grid Manager 介面、從 BlueXP  管理您的 StorageGRID 系統。
+
+https://docs.netapp.com/us-en/bluexp-storagegrid/task-administer-storagegrid.html["瞭解如何使用進階檢視來管理 StorageGRID"]。
+
+
+
+=== 能夠檢閱及核准 StorageGRID 管理介面憑證
+
+您現在可以在從 BlueXP  探索 StorageGRID 系統時、檢閱及核准 StorageGRID 管理介面憑證。您也可以在探索到的網格上檢閱及核准最新的 StorageGRID 管理介面憑證。
+
+https://docs.netapp.com/us-en/bluexp-storagegrid/task-discover-storagegrid.html["瞭解如何在系統探索期間檢閱及核准伺服器憑證。"]

@@ -1,0 +1,9 @@
+= 支援StorageGRID 功能
+:allow-uri-read: 
+
+
+
+
+=== 支援StorageGRID 功能
+
+您現在StorageGRID 可以直接從BlueXP探索您的解決方案。探索StorageGRID 功能可讓您完整檢視混合式多雲端的資料。
