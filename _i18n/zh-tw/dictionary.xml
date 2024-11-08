@@ -365,4 +365,6 @@
   <block id="9c0e98fb28f894724e92772753a585bc" category="paragraph">Connector 可以位於雲端或內部部署。它只需要與 StorageGRID 系統的網路連線。</block>
   <block id="db188d9c1fa3be7f6644057e551033c7" category="list-text">使用 3.9.43 版或更新版本全新安裝 Connector 。</block>
   <block id="dc8d4eccfd0e6edfd9b12eab22e1dda9" category="list-text">連接器與 StorageGRID 系統之間的網路連線。</block>
+  <block id="4e6cac25727040c5c5bd57e5c5555bec" category="inline-link-macro">StorageGRID 系統 BlueXP  管理注意事項</block>
+  <block id="6da0afd2bb3a5e61128a9818c9a173e9" category="list-text"><block ref="6da0afd2bb3a5e61128a9818c9a173e9" category="inline-link-macro-rx"></block></block>
 </blocks>
