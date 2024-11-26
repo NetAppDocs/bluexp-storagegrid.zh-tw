@@ -48,5 +48,5 @@ link:https://www.netapp.com/company/legal/privacy-policy/["https://www.netapp.co
 通知檔案提供有關 NetApp 軟體所使用之協力廠商版權與授權的資訊。
 
 * https://docs.netapp.com/us-en/bluexp-setup-admin/media/notice.pdf["藍圖XP注意事項"^]
-* link:media/notice.pdf["StorageGRID 系統 BlueXP  管理注意事項"^]
+* link:media/NOTICE-storageservices.pdf["StorageGRID 系統 BlueXP  管理注意事項"^]
 
