@@ -16,6 +16,9 @@ summary: 由於憑證可能過期、您可能偶爾需要檢視狀態或更新�
 [role="lead"]
 您必須先在 StorageGRID 系統上取得管理介面憑證、才能從 BlueXP  探索系統。憑證可在 BlueXP  和 StorageGRID 之間提供安全連線。由於憑證可能過期、您可能偶爾需要檢視狀態或更新憑證。
 
+.所需的BlueXP角色：
+組織管理員、資料夾或專案管理員或儲存管理員。 link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["了解 BlueXP 訪問角色。"^]
+
 
 
 == 檢視管理介面憑證的狀態

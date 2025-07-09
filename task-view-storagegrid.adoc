@@ -16,6 +16,9 @@ summary: 探索StorageGRID 完您的功能性系統之後、您可以檢視容�
 [role="lead"]
 探索StorageGRID 完您的功能性系統之後、您可以檢視容量分配的詳細資料、以及相關的警示、節點和租戶。
 
+.所需的BlueXP角色：
+組織管理員、資料夾或專案管理員、儲存管理員或系統健康專家。 link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["了解 BlueXP 訪問角色。"^]
+
 .步驟
 . 從導覽功能表中、選取*儲存設備> Canvas*。
 . 在「畫布」頁面上、選取您要檢視的 StorageGRID 工作環境。
