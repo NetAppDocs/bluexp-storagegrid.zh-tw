@@ -1,7 +1,6 @@
 ---
 settings:
   name: StorageGRID
-  platform: cloud
   internal:
     pdf_enabled: true
   prod:
